@@ -1,0 +1,217 @@
+{
+    "food": [
+        {
+            "foodId":1,
+            "name":"Pretzel",
+            "isCombo":"false"
+        },
+        {
+            "foodId":2,
+            "name":"Pizza Pretzel",
+            "isCombo":"false"
+        },
+        {
+            "foodId":3,
+            "name":"CheeseBurger",
+            "isCombo":"false"
+        },
+        {
+            "foodId":4,
+            "name":"Hot Dog",
+            "isCombo":"false"
+        },
+        {
+            "foodId":5,
+            "name":"Chicken",
+            "isCombo":"false"
+        },
+        {
+            "foodId":6,
+            "name":"Mozzarella Sticks",
+            "isCombo":"true"
+        },
+        {
+            "foodId":7,
+            "name":"Mac and Cheese Bites",
+            "isCombo":"true"
+        },
+        {
+            "foodId":8,
+            "name":"Fried Cauliflower",
+            "isCombo":"true"
+        },
+        {
+            "foodId":9,
+            "name":"Nachos and Cheese",
+            "isCombo":"false"
+        },
+        {
+            "foodId":10,
+            "name":"Chili",
+            "isCombo":"false"
+        },
+        {
+            "foodId":11,
+            "name":"Jalapeno Poppers",
+            "isCombo":"true"
+        },
+        {
+            "foodId":12,
+            "name":"French Fries",
+            "isCombo":"true"
+        },
+        {
+            "foodId":13,
+            "name":"Battered Green Beans",
+            "isCombo":"true"
+        },
+        {
+            "foodId":14,
+            "name":"Grilled Cheese",
+            "isCombo":"false"
+        },
+        {
+            "foodId":15,
+            "name":"Chili Cheese Nachos",
+            "isCombo":"false"
+        }
+    ],
+    "icecream":[
+        {
+            "flavors":
+            {
+                "flavor1":"Vanilla",
+                "flavor2":"Chocolate",
+                "flavor3":"Twist",
+                "flavor4":"Coffee",
+                "flavor5":"Coffee/Vanilla Twist",
+                "flavor6":"Dole1",
+                "flavor7":"Dole2",
+                "flavor8":"Special"
+            }
+        },
+        {
+            "sizes":
+            {
+                "conesdishes":[
+                    {"size":"Baby","price":1.00},
+                    {"size":"Small","price":3.00},
+                    {"size":"Medium","price":4.00},
+                    {"size":"Large", "price":4.50}
+                ],
+                "flurries":[
+                    {"size":"Regular","price":5.00},
+                    {"size":"Large","price":6.00}
+                ],
+                "milkshakes":[
+                    {"size":"Regular","price":4.00},
+                    {"size":"Large","price":5.00}
+                ],
+                "sundays":[
+                    {"size":"Tiny","price":2.50},
+                    {"size":"Regular","price":4.50},
+                    {"size":"Large","price":6.00}
+                ],
+                "bananasun":[
+                    {"size":"Banana Sunday","price":6.50},
+                    {"size":"Banana Split","price":7.00}
+                ],
+                "browniesun":[
+                    {"size":"Large","price":7.00}
+                ]
+                
+            }
+        },
+        {
+            "types":
+            {
+                "type1":"Cone",
+                "type2":"Dish",
+                "type3":"Milkshake",
+                "type4":"Flurry",
+                "type5":"Sundae",
+                "type6":"Banana Split",
+                "type7":"Brownie Sundae"
+            }
+        },
+        {
+            "milkshake":
+                {
+                    "m1":"Chocolate",
+                    "m2":"Vanilla",
+                    "m3":"Vanilla Peanut Butter",
+                    "m4":"Chocolate Peanute Butter",
+                    "m5":"Strawberry",
+                    "m6":"Strawberry-Banana"
+                }
+        },
+        {
+            "toppings":
+            {
+                "cones":
+                [
+                    {"top":"waffle","price":1.00},
+                    {"top":"wafflebowl","price":1.50},
+                    {"top":"Chocolate Dip","price":1.00},
+                    {"top":"Cherry Dip","price":1.00},
+                    {"top":"PB Dip","price":1.00},
+                    {"top":"Bluerasberry Dip","price":1.00},
+                    {"top":"Rainbow Sprinkles","price":0.50},
+                    {"top":"Chocolate Sprinkles","price":0.50},
+                    {"top":"Mint Sprinkles","price":0.50},
+                    {"top":"CottonCandy Sprinkles","price":0.50}
+                ],
+                "sundae":
+                {
+                    "checkbox":
+                    {
+                        "t1":"whip cream",
+                        "t2":"nuts",
+                        "t3":"cherry"
+                    },
+                    "normal":
+                    {
+                        "top1":"Chocolate Syrup",
+                        "top2":"Hot Fudge",
+                        "top3":"PB Sauce",
+                        "top4":"Pineapple",
+                        "top5":"Carmel"
+                    }   
+                },
+                "flurry":
+                {
+                    "c1":"M&M's",
+                    "c2":"Cookie Dough",
+                    "c3":"Reeces Cups",
+                    "c4":"Reeces Pieces",
+                    "c5":"Oreo",
+                    "c6":"Andes Candies",
+                    "c7":"Butterfingers",
+                    "c8":"Cake Batter",
+                    "c9":"Nestle Crunch"
+                }
+                
+            }
+        }    
+    ],
+    "smoothie": [
+        {   
+            "flavors":
+            [
+                {"fruit":"Strawberry Banana","price":5.00},
+                {"fruit":"Blueberry Banana","price":5.00},
+                {"fruit":"Banana","price":5.00},
+                {"fruit":"Strawberry","price":5.00},
+                {"fruit":"Wildberry","price":5.00},
+                {"fruit":"Mango","price":5.00},
+                {"fruit":"Peach","price":5.00},
+                {"fruit":"Pina Colada","price":5.00},
+                {"fruit":"Lemon","price":5.00}
+            ]
+        }
+        
+    ]
+    
+    
+        
+}

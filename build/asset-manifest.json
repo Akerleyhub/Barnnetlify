@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1248eaf0.chunk.css",
+    "main.js": "/static/js/main.8aaec23a.chunk.js",
+    "main.js.map": "/static/js/main.8aaec23a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.065bde90.js",
+    "runtime-main.js.map": "/static/js/runtime-main.065bde90.js.map",
+    "static/js/2.1b114d21.chunk.js": "/static/js/2.1b114d21.chunk.js",
+    "static/js/2.1b114d21.chunk.js.map": "/static/js/2.1b114d21.chunk.js.map",
+    "static/js/3.d3c3bfe9.chunk.js": "/static/js/3.d3c3bfe9.chunk.js",
+    "static/js/3.d3c3bfe9.chunk.js.map": "/static/js/3.d3c3bfe9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1248eaf0.chunk.css.map": "/static/css/main.1248eaf0.chunk.css.map",
+    "static/js/2.1b114d21.chunk.js.LICENSE.txt": "/static/js/2.1b114d21.chunk.js.LICENSE.txt",
+    "static/media/Foodmenu.ed081efe.jpg": "/static/media/Foodmenu.ed081efe.jpg",
+    "static/media/barnlogo.b6c14ede.jpg": "/static/media/barnlogo.b6c14ede.jpg",
+    "static/media/icecreammenu.f389a153.jpg": "/static/media/icecreammenu.f389a153.jpg",
+    "static/media/morefood.b34ee64c.jpg": "/static/media/morefood.b34ee64c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.065bde90.js",
+    "static/js/2.1b114d21.chunk.js",
+    "static/css/main.1248eaf0.chunk.css",
+    "static/js/main.8aaec23a.chunk.js"
+  ]
+}
